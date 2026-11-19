@@ -7,4 +7,3 @@ build/
 *.egg-info/
 .pytest_cache/
 .env
-.github/workflows/
